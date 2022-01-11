@@ -10,3 +10,13 @@ COMP6013: BCs Computing Project
 William Redmond
 
 ###########################################################################################################
+
+Solution 1 -
+
+Solution 2 -
+
+Solution 3 -
+
+Solution 4 -
+
+Solution 5 -
