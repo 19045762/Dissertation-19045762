@@ -11,12 +11,6 @@ William Redmond
 
 #######################################################################################
 
-Solution 1 -
+Website 1 -
 
-Solution 2 -
-
-Solution 3 -
-
-Solution 4 -
-
-Solution 5 -
+Website 2 -
