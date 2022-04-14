@@ -11,6 +11,6 @@ William Redmond
 
 #######################################################################################
 
-Website 1 -
+Website 1 - Will's Pizza
 
-Website 2 -
+Website 2 - Pizza World
