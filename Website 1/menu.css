@@ -1,0 +1,70 @@
+body {
+    background-color: black;
+    background-image: url(images/background.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+}
+
+html {
+    height: 100%;
+}
+
+.container {
+    margin-left: auto;
+    margin-right: auto;
+    width: 1024px;
+}    
+
+header {
+    text-align: center;
+}
+
+nav {
+    background-color: rgb(189, 35, 35);
+    text-align: center;
+    padding-top: 14px;
+    padding-bottom: 14px;
+    box-shadow: 4px;
+    border-radius: 25px;
+    filter: drop-shadow(.5rem .5rem 1rem black)
+}
+
+nav a {
+    text-decoration: none;
+    color:white;
+    font-size: 12px;
+    padding-left: 10px;
+    padding-right: 10px;
+    font-weight: bold;
+    font-size: 15px;
+    text-shadow: 2px 2px black;
+}
+
+nav a:hover {
+    border-radius: 25px;
+    font-style: oblique;
+}
+
+main {
+    text-align: center;
+    height: 950px;
+    padding-top: 10px;
+    padding-left: 1px;
+    padding-right: 1px;
+    font-family: 'Times New Roman', Times, serif;
+    color:black;
+    background-color: white;
+    border-radius: 25px;
+}
+
+main img {
+    max-width: 100%;
+    height: auto;
+}
+
+h1 {
+    color:white;
+    font-family: 'Times New Roman', Times, serif;
+}
